@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Alexey Dmitrenko.
 - 👨‍🎓 Education - [Southern Federal University](https://sfedu.ru/index_eng.php), Bachelor of Radiophysics.
-- 👨‍💻 I’m currently working at [![Static Badge](https://img.shields.io/badge/News%20Department-black?style=flat&logo=tradingview)](https://www.tradingview.com/news/)
+- 👨‍💻 I’m currently working at [![Static Badge](https://img.shields.io/badge/News%20Department-black?style=flat&logo=tradingview)](https://www.tradingview.com)
 
 - 🔧 My position is QA engineer of backend (manual)
 
