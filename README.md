@@ -1,9 +1,8 @@
 ## Hi there 👋
 My name is Alexey Dmitrenko.
 - 👨‍🎓 Education - [Southern Federal University](https://sfedu.ru/index_eng.php), Bachelor of Radiophysics 📻. 
-- 👨‍💻 I’m currently working at **TradingView** [![Static Badge](https://img.shields.io/badge/News%20Department-black?style=flat&logo=tradingview)](https://www.tradingview.com)
 
-- 🔧 My position is AQA engineer of backend (manual)
+- 🔧 My position is auto/manual QA engineer of backend
 
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RedheadAlex)
 
@@ -19,4 +18,5 @@ My name is Alexey Dmitrenko.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;        
   <img src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg" title="Puppet" alt="Puppet" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 </div> 
