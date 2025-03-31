@@ -19,4 +19,5 @@ My name is Alexey Dmitrenko.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;        
   <img src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg" title="Puppet" alt="Puppet" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+ <img src="https://allurereport.org/svg/logo-report-sign.svg" title="Allure" alt="Allure" width="50" height="50"/>&nbsp;
 </div> 
